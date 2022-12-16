@@ -1,0 +1,158 @@
+2022-12-16 22:07:13,008 DEBUG Starting new HTTPS connection (1): api.github.com:443
+2022-12-16 22:07:13,179 DEBUG https://api.github.com:443 "GET /repos/pegasus-isi/sra-search-pegasus-workflow HTTP/1.1" 200 None
+2022-12-16 22:07:13,181 INFO Looking up repository https://api.github.com/repos/pegasus-isi/sra-search-pegasus-workflow
+2022-12-16 22:07:13,181 INFO sra-search-pegasus-workflow is being populated
+
+2022-12-16 22:07:13,184 DEBUG Starting new HTTPS connection (1): api.github.com:443
+2022-12-16 22:07:13,355 DEBUG https://api.github.com:443 "GET /repos/pegasus-isi/sra-search-pegasus-workflow/releases HTTP/1.1" 200 2
+2022-12-16 22:07:13,357 DEBUG Starting new HTTPS connection (1): api.github.com:443
+2022-12-16 22:07:13,542 DEBUG https://api.github.com:443 "GET /repos/pegasus-isi/sra-search-pegasus-workflow/contributors HTTP/1.1" 200 None
+2022-12-16 22:07:13,544 DEBUG Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-12-16 22:07:13,702 DEBUG https://raw.githubusercontent.com:443 "GET /pegasus-isi/sra-search-pegasus-workflow/master/.pegasushub.yml HTTP/1.1" 404 14
+2022-12-16 22:07:13,703 ERROR 404 Client Error: Not Found for url: https://raw.githubusercontent.com/pegasus-isi/sra-search-pegasus-workflow/master/.pegasushub.yml
+2022-12-16 22:07:13,705 DEBUG Starting new HTTPS connection (1): api.github.com:443
+2022-12-16 22:07:13,897 DEBUG https://api.github.com:443 "GET /repos/pegasus-isi/montage-workflow-v3 HTTP/1.1" 200 None
+2022-12-16 22:07:13,898 INFO Looking up repository https://api.github.com/repos/pegasus-isi/montage-workflow-v3
+2022-12-16 22:07:13,898 INFO montage-workflow-v3 is being populated
+
+2022-12-16 22:07:13,899 DEBUG Starting new HTTPS connection (1): api.github.com:443
+2022-12-16 22:07:14,079 DEBUG https://api.github.com:443 "GET /repos/pegasus-isi/montage-workflow-v3/releases HTTP/1.1" 200 2
+2022-12-16 22:07:14,082 DEBUG Starting new HTTPS connection (1): api.github.com:443
+2022-12-16 22:07:14,257 DEBUG https://api.github.com:443 "GET /repos/pegasus-isi/montage-workflow-v3/contributors HTTP/1.1" 200 None
+2022-12-16 22:07:14,260 DEBUG Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-12-16 22:07:14,430 DEBUG https://raw.githubusercontent.com:443 "GET /pegasus-isi/montage-workflow-v3/master/.pegasushub.yml HTTP/1.1" 200 99
+2022-12-16 22:07:14,433 DEBUG Starting new HTTPS connection (1): api.github.com:443
+2022-12-16 22:07:14,619 DEBUG https://api.github.com:443 "GET /repos/pegasus-isi/freesurfer-osg-workflow HTTP/1.1" 200 None
+2022-12-16 22:07:14,621 INFO Looking up repository https://api.github.com/repos/pegasus-isi/freesurfer-osg-workflow
+2022-12-16 22:07:14,621 INFO freesurfer-osg-workflow is being populated
+
+2022-12-16 22:07:14,622 DEBUG Starting new HTTPS connection (1): api.github.com:443
+2022-12-16 22:07:14,797 DEBUG https://api.github.com:443 "GET /repos/pegasus-isi/freesurfer-osg-workflow/releases HTTP/1.1" 200 2
+2022-12-16 22:07:14,799 DEBUG Starting new HTTPS connection (1): api.github.com:443
+2022-12-16 22:07:14,988 DEBUG https://api.github.com:443 "GET /repos/pegasus-isi/freesurfer-osg-workflow/contributors HTTP/1.1" 200 None
+2022-12-16 22:07:14,991 DEBUG Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-12-16 22:07:15,153 DEBUG https://raw.githubusercontent.com:443 "GET /pegasus-isi/freesurfer-osg-workflow/master/.pegasushub.yml HTTP/1.1" 404 14
+2022-12-16 22:07:15,154 ERROR 404 Client Error: Not Found for url: https://raw.githubusercontent.com/pegasus-isi/freesurfer-osg-workflow/master/.pegasushub.yml
+2022-12-16 22:07:15,156 DEBUG Starting new HTTPS connection (1): api.github.com:443
+2022-12-16 22:07:15,345 DEBUG https://api.github.com:443 "GET /repos/pegasus-isi/pegasus-fb-nlp HTTP/1.1" 200 None
+2022-12-16 22:07:15,346 INFO Looking up repository https://api.github.com/repos/pegasus-isi/pegasus-fb-nlp
+2022-12-16 22:07:15,347 INFO pegasus-fb-nlp is being populated
+
+2022-12-16 22:07:15,348 DEBUG Starting new HTTPS connection (1): api.github.com:443
+2022-12-16 22:07:15,524 DEBUG https://api.github.com:443 "GET /repos/pegasus-isi/pegasus-fb-nlp/releases HTTP/1.1" 200 2
+2022-12-16 22:07:15,526 DEBUG Starting new HTTPS connection (1): api.github.com:443
+2022-12-16 22:07:15,722 DEBUG https://api.github.com:443 "GET /repos/pegasus-isi/pegasus-fb-nlp/contributors HTTP/1.1" 200 None
+2022-12-16 22:07:15,724 DEBUG Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-12-16 22:07:15,937 DEBUG https://raw.githubusercontent.com:443 "GET /pegasus-isi/pegasus-fb-nlp/master/.pegasushub.yml HTTP/1.1" 200 163
+2022-12-16 22:07:15,941 DEBUG Starting new HTTPS connection (1): api.github.com:443
+2022-12-16 22:07:16,121 DEBUG https://api.github.com:443 "GET /repos/pegasus-isi/diamond-workflow HTTP/1.1" 200 None
+2022-12-16 22:07:16,122 INFO Looking up repository https://api.github.com/repos/pegasus-isi/diamond-workflow
+2022-12-16 22:07:16,122 INFO diamond-workflow is being populated
+
+2022-12-16 22:07:16,123 DEBUG Starting new HTTPS connection (1): api.github.com:443
+2022-12-16 22:07:16,284 DEBUG https://api.github.com:443 "GET /repos/pegasus-isi/diamond-workflow/releases HTTP/1.1" 200 2
+2022-12-16 22:07:16,286 DEBUG Starting new HTTPS connection (1): api.github.com:443
+2022-12-16 22:07:16,460 DEBUG https://api.github.com:443 "GET /repos/pegasus-isi/diamond-workflow/contributors HTTP/1.1" 200 None
+2022-12-16 22:07:16,462 DEBUG Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-12-16 22:07:16,667 DEBUG https://raw.githubusercontent.com:443 "GET /pegasus-isi/diamond-workflow/main/.pegasushub.yml HTTP/1.1" 200 87
+2022-12-16 22:07:16,670 DEBUG Starting new HTTPS connection (1): api.github.com:443
+2022-12-16 22:07:16,858 DEBUG https://api.github.com:443 "GET /repos/pegasus-isi/merge-workflow HTTP/1.1" 200 None
+2022-12-16 22:07:16,859 INFO Looking up repository https://api.github.com/repos/pegasus-isi/merge-workflow
+2022-12-16 22:07:16,859 INFO merge-workflow is being populated
+
+2022-12-16 22:07:16,860 DEBUG Starting new HTTPS connection (1): api.github.com:443
+2022-12-16 22:07:17,057 DEBUG https://api.github.com:443 "GET /repos/pegasus-isi/merge-workflow/releases HTTP/1.1" 200 2
+2022-12-16 22:07:17,060 DEBUG Starting new HTTPS connection (1): api.github.com:443
+2022-12-16 22:07:17,239 DEBUG https://api.github.com:443 "GET /repos/pegasus-isi/merge-workflow/contributors HTTP/1.1" 200 None
+2022-12-16 22:07:17,241 DEBUG Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-12-16 22:07:17,402 DEBUG https://raw.githubusercontent.com:443 "GET /pegasus-isi/merge-workflow/master/.pegasushub.yml HTTP/1.1" 200 87
+2022-12-16 22:07:17,405 DEBUG Starting new HTTPS connection (1): api.github.com:443
+2022-12-16 22:07:17,584 DEBUG https://api.github.com:443 "GET /repos/pegasus-isi/split-workflow HTTP/1.1" 200 None
+2022-12-16 22:07:17,585 INFO Looking up repository https://api.github.com/repos/pegasus-isi/split-workflow
+2022-12-16 22:07:17,585 INFO split-workflow is being populated
+
+2022-12-16 22:07:17,586 DEBUG Starting new HTTPS connection (1): api.github.com:443
+2022-12-16 22:07:17,747 DEBUG https://api.github.com:443 "GET /repos/pegasus-isi/split-workflow/releases HTTP/1.1" 200 2
+2022-12-16 22:07:17,749 DEBUG Starting new HTTPS connection (1): api.github.com:443
+2022-12-16 22:07:17,933 DEBUG https://api.github.com:443 "GET /repos/pegasus-isi/split-workflow/contributors HTTP/1.1" 200 None
+2022-12-16 22:07:17,935 DEBUG Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-12-16 22:07:18,118 DEBUG https://raw.githubusercontent.com:443 "GET /pegasus-isi/split-workflow/master/.pegasushub.yml HTTP/1.1" 200 87
+2022-12-16 22:07:18,122 DEBUG Starting new HTTPS connection (1): api.github.com:443
+2022-12-16 22:07:18,308 DEBUG https://api.github.com:443 "GET /repos/pegasus-isi/pipeline-workflow HTTP/1.1" 200 None
+2022-12-16 22:07:18,309 INFO Looking up repository https://api.github.com/repos/pegasus-isi/pipeline-workflow
+2022-12-16 22:07:18,310 INFO pipeline-workflow is being populated
+
+2022-12-16 22:07:18,311 DEBUG Starting new HTTPS connection (1): api.github.com:443
+2022-12-16 22:07:18,499 DEBUG https://api.github.com:443 "GET /repos/pegasus-isi/pipeline-workflow/releases HTTP/1.1" 200 2
+2022-12-16 22:07:18,501 DEBUG Starting new HTTPS connection (1): api.github.com:443
+2022-12-16 22:07:18,692 DEBUG https://api.github.com:443 "GET /repos/pegasus-isi/pipeline-workflow/contributors HTTP/1.1" 200 None
+2022-12-16 22:07:18,694 DEBUG Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-12-16 22:07:18,945 DEBUG https://raw.githubusercontent.com:443 "GET /pegasus-isi/pipeline-workflow/master/.pegasushub.yml HTTP/1.1" 200 87
+2022-12-16 22:07:18,949 DEBUG Starting new HTTPS connection (1): api.github.com:443
+2022-12-16 22:07:19,143 DEBUG https://api.github.com:443 "GET /repos/pegasus-isi/process-workflow HTTP/1.1" 200 None
+2022-12-16 22:07:19,144 INFO Looking up repository https://api.github.com/repos/pegasus-isi/process-workflow
+2022-12-16 22:07:19,145 INFO process-workflow is being populated
+
+2022-12-16 22:07:19,146 DEBUG Starting new HTTPS connection (1): api.github.com:443
+2022-12-16 22:07:19,304 DEBUG https://api.github.com:443 "GET /repos/pegasus-isi/process-workflow/releases HTTP/1.1" 200 2
+2022-12-16 22:07:19,307 DEBUG Starting new HTTPS connection (1): api.github.com:443
+2022-12-16 22:07:19,498 DEBUG https://api.github.com:443 "GET /repos/pegasus-isi/process-workflow/contributors HTTP/1.1" 200 None
+2022-12-16 22:07:19,500 DEBUG Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-12-16 22:07:19,706 DEBUG https://raw.githubusercontent.com:443 "GET /pegasus-isi/process-workflow/master/.pegasushub.yml HTTP/1.1" 200 87
+2022-12-16 22:07:19,709 DEBUG Starting new HTTPS connection (1): api.github.com:443
+2022-12-16 22:07:19,903 DEBUG https://api.github.com:443 "GET /repos/pegasus-isi/lung-instance-segmentation-workflow HTTP/1.1" 200 None
+2022-12-16 22:07:19,904 INFO Looking up repository https://api.github.com/repos/pegasus-isi/lung-instance-segmentation-workflow
+2022-12-16 22:07:19,905 INFO lung-instance-segmentation-workflow is being populated
+
+2022-12-16 22:07:19,906 DEBUG Starting new HTTPS connection (1): api.github.com:443
+2022-12-16 22:07:20,060 DEBUG https://api.github.com:443 "GET /repos/pegasus-isi/lung-instance-segmentation-workflow/releases HTTP/1.1" 200 2
+2022-12-16 22:07:20,062 DEBUG Starting new HTTPS connection (1): api.github.com:443
+2022-12-16 22:07:20,256 DEBUG https://api.github.com:443 "GET /repos/pegasus-isi/lung-instance-segmentation-workflow/contributors HTTP/1.1" 200 None
+2022-12-16 22:07:20,259 DEBUG Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-12-16 22:07:20,504 DEBUG https://raw.githubusercontent.com:443 "GET /pegasus-isi/lung-instance-segmentation-workflow/main/.pegasushub.yml HTTP/1.1" 200 87
+2022-12-16 22:07:20,508 DEBUG Starting new HTTPS connection (1): api.github.com:443
+2022-12-16 22:07:20,686 DEBUG https://api.github.com:443 "GET /repos/pegasus-isi/mask-detection-workflow HTTP/1.1" 200 None
+2022-12-16 22:07:20,687 INFO Looking up repository https://api.github.com/repos/pegasus-isi/mask-detection-workflow
+2022-12-16 22:07:20,687 INFO mask-detection-workflow is being populated
+
+2022-12-16 22:07:20,688 DEBUG Starting new HTTPS connection (1): api.github.com:443
+2022-12-16 22:07:20,889 DEBUG https://api.github.com:443 "GET /repos/pegasus-isi/mask-detection-workflow/releases HTTP/1.1" 200 None
+2022-12-16 22:07:20,891 DEBUG Starting new HTTPS connection (1): api.github.com:443
+2022-12-16 22:07:21,065 DEBUG https://api.github.com:443 "GET /repos/pegasus-isi/mask-detection-workflow/contributors HTTP/1.1" 200 None
+2022-12-16 22:07:21,067 DEBUG Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-12-16 22:07:21,250 DEBUG https://raw.githubusercontent.com:443 "GET /pegasus-isi/mask-detection-workflow/master/.pegasushub.yml HTTP/1.1" 404 14
+2022-12-16 22:07:21,252 ERROR 404 Client Error: Not Found for url: https://raw.githubusercontent.com/pegasus-isi/mask-detection-workflow/master/.pegasushub.yml
+2022-12-16 22:07:21,253 DEBUG Starting new HTTPS connection (1): api.github.com:443
+2022-12-16 22:07:21,474 DEBUG https://api.github.com:443 "GET /repos/pegasus-isi/molecular-transformer-workflow HTTP/1.1" 200 None
+2022-12-16 22:07:21,475 INFO Looking up repository https://api.github.com/repos/pegasus-isi/molecular-transformer-workflow
+2022-12-16 22:07:21,475 INFO molecular-transformer-workflow is being populated
+
+2022-12-16 22:07:21,477 DEBUG Starting new HTTPS connection (1): api.github.com:443
+2022-12-16 22:07:21,656 DEBUG https://api.github.com:443 "GET /repos/pegasus-isi/molecular-transformer-workflow/releases HTTP/1.1" 200 2
+2022-12-16 22:07:21,658 DEBUG Starting new HTTPS connection (1): api.github.com:443
+2022-12-16 22:07:21,845 DEBUG https://api.github.com:443 "GET /repos/pegasus-isi/molecular-transformer-workflow/contributors HTTP/1.1" 200 None
+2022-12-16 22:07:21,848 DEBUG Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-12-16 22:07:22,021 DEBUG https://raw.githubusercontent.com:443 "GET /pegasus-isi/molecular-transformer-workflow/main/.pegasushub.yml HTTP/1.1" 404 14
+2022-12-16 22:07:22,022 ERROR 404 Client Error: Not Found for url: https://raw.githubusercontent.com/pegasus-isi/molecular-transformer-workflow/main/.pegasushub.yml
+2022-12-16 22:07:22,024 DEBUG Starting new HTTPS connection (1): api.github.com:443
+2022-12-16 22:07:22,199 DEBUG https://api.github.com:443 "GET /repos/pegasus-isi/variant-calling-pegasus-workflow HTTP/1.1" 200 None
+2022-12-16 22:07:22,200 INFO Looking up repository https://api.github.com/repos/pegasus-isi/variant-calling-pegasus-workflow
+2022-12-16 22:07:22,201 INFO variant-calling-pegasus-workflow is being populated
+
+2022-12-16 22:07:22,202 DEBUG Starting new HTTPS connection (1): api.github.com:443
+2022-12-16 22:07:22,409 DEBUG https://api.github.com:443 "GET /repos/pegasus-isi/variant-calling-pegasus-workflow/releases HTTP/1.1" 200 2
+2022-12-16 22:07:22,411 DEBUG Starting new HTTPS connection (1): api.github.com:443
+2022-12-16 22:07:22,591 DEBUG https://api.github.com:443 "GET /repos/pegasus-isi/variant-calling-pegasus-workflow/contributors HTTP/1.1" 200 None
+2022-12-16 22:07:22,593 DEBUG Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-12-16 22:07:22,759 DEBUG https://raw.githubusercontent.com:443 "GET /pegasus-isi/variant-calling-pegasus-workflow/master/.pegasushub.yml HTTP/1.1" 200 123
+2022-12-16 22:07:22,762 DEBUG Starting new HTTPS connection (1): api.github.com:443
+2022-12-16 22:07:22,943 DEBUG https://api.github.com:443 "GET /repos/pegasus-isi/1000genome-workflow HTTP/1.1" 200 None
+2022-12-16 22:07:22,944 INFO Looking up repository https://api.github.com/repos/pegasus-isi/1000genome-workflow
+2022-12-16 22:07:22,944 INFO 1000genome-workflow is being populated
+
+2022-12-16 22:07:22,946 DEBUG Starting new HTTPS connection (1): api.github.com:443
+2022-12-16 22:07:23,165 DEBUG https://api.github.com:443 "GET /repos/pegasus-isi/1000genome-workflow/releases HTTP/1.1" 200 2
+2022-12-16 22:07:23,167 DEBUG Starting new HTTPS connection (1): api.github.com:443
+2022-12-16 22:07:23,344 DEBUG https://api.github.com:443 "GET /repos/pegasus-isi/1000genome-workflow/contributors HTTP/1.1" 200 None
+2022-12-16 22:07:23,346 DEBUG Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-12-16 22:07:23,529 DEBUG https://raw.githubusercontent.com:443 "GET /pegasus-isi/1000genome-workflow/master/.pegasushub.yml HTTP/1.1" 200 105
